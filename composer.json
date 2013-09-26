@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": ">=5.3.2",
+        "yiisoft/yii": "1.1.*",
+        "yiiext/migrate-command": "0.7.1.1",
+        "lisachenko/go-aop-php": "0.4.1"
+    }
+}
